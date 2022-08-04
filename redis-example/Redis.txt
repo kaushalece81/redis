@@ -1,0 +1,9 @@
+Redis is an in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Redis supports different kinds of abstract data structures, such as strings, lists, maps, sets, sorted sets, HyperLogLogs, bitmaps, streams, and spatial indices.
+
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblc3VnRUdmY5YWNvVHRQYXRPemJYSTBVZFBHUXxBQ3Jtc0trR05VamRMMURhSHQ2aUhkeHRobHRwcmRudmJJUHNKcnQ5bG5YZjhUVnVuZ0VpV201WW9KYmJBLU1RMHAwZnRRZ3JnWGtWYVNEUzllc3FCTGpveUlCNmFsVWFLMFNVVjV0dE1NdXdCS0hBR1BLYzAtZw&q=https%3A%2F%2Fgithub.com%2Fmicrosoftarchive%2Fredis%2Freleases%2Ftag%2Fwin-3.2.100
+
+windows : download  Redis-x64-3.2.100.zip
+
+unzip and click on redis-server.exe to start on windows
+runs on port 6379
